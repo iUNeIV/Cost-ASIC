@@ -1,0 +1,10 @@
+Q:\Tool Game\ALL\Cost-ASIC\Cost-ASIC\bin\Debug\Cost-ASIC.exe.config
+Q:\Tool Game\ALL\Cost-ASIC\Cost-ASIC\bin\Debug\Cost-ASIC.exe
+Q:\Tool Game\ALL\Cost-ASIC\Cost-ASIC\bin\Debug\Cost-ASIC.pdb
+Q:\Tool Game\ALL\Cost-ASIC\Cost-ASIC\bin\Debug\Cost-ASIC.xml
+Q:\Tool Game\ALL\Cost-ASIC\Cost-ASIC\obj\Debug\Cost_ASIC.Form1.resources
+Q:\Tool Game\ALL\Cost-ASIC\Cost-ASIC\obj\Debug\Cost_ASIC.Resources.resources
+Q:\Tool Game\ALL\Cost-ASIC\Cost-ASIC\obj\Debug\Cost-ASIC.vbproj.GenerateResource.Cache
+Q:\Tool Game\ALL\Cost-ASIC\Cost-ASIC\obj\Debug\Cost-ASIC.exe
+Q:\Tool Game\ALL\Cost-ASIC\Cost-ASIC\obj\Debug\Cost-ASIC.xml
+Q:\Tool Game\ALL\Cost-ASIC\Cost-ASIC\obj\Debug\Cost-ASIC.pdb
